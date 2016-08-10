@@ -1,4 +1,3 @@
-Hello this is cummins college.
+Hello this is cummins college of engineering.
 Good morning everybody.
 Welcome to github.
-Have a good day.
